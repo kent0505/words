@@ -27,3 +27,974 @@
 27. accident - авария A2
 28. aircraft - самолет В2
 29. accommodation - размещение B1
+30. airline - авиакомпания A2
+31. accompany - сопровождать B2
+32. airport - аэропорт A1
+33. according - согласно A2
+34. alarm - сигнализация B1/B2
+35. account - счет B1/B2
+36. album - альбом B1
+37. accurate - точный В2
+38. alcohol - спирт B1
+39. accuse - обвинять против B2
+40. alcoholic - алкогольный B1
+41. achieve - достичь A2
+42. alive - живой A2
+43. achievement - достижение - B1
+44. all - все A1/ A2
+45. acknowledge признать B2
+46. all right - ладно А2
+47. acquire - приобрести B2
+48. allow - разрешить A2
+49. across - поперек через A1
+50. almost - почти A2
+51. act - действовать A2
+52. alone - только A2
+53. action - действие A1
+54. along - по вдоль A2
+55. active - активный A2
+56. already - уже A2
+57. activity - деятельность - A1
+58. also - также A1
+59. actor - актер A1
+60. alter - изменить B2
+61. actress - актриса A1
+62. alternative - альтернатива A2/ B1
+63. actual - фактический B2
+64. although - хотя A2
+65. actually - на самом деле A2
+66. always - всегда A1/ B1
+67. amazed - удивленный B1
+68. adapt - адаптировать B2
+69. amazing - удивительный A1
+70. add - добавить A1
+71. ambition - амбиции B1
+72. addition - дополнение B1
+73. ambitious - амбициозный B1
+74. additional - дополнительный B2
+75. among - среди A2
+76. address - адрес A1/B2
+77. amount - сумма A2/B2
+78. administration - администрация B2
+79. analyse - анализировать B1
+80. admire - восхищаться B1
+81. analysis - анализ B1
+82. admit - признать B1
+83. ancient - древний A2
+84. adopt - принять B2
+85. and - и A1
+86. adult - взрослый A1/A2
+87. ange - гнев B2
+88. advance - продвигать В1
+89. In advance - заранее В1
+90. angle - угол В2
+91. advanced - продвинутый B1
+92. angry - злой A1
+93. advantage - преимущество A2
+94. animal - животное A1
+95. adventure - приключение A2
+96. ankle - лодыжка A2
+97. advertise - рекламировать A2
+98. anniversary - юбилей В2
+99. advertisement - реклама A2
+100. announce - объявить B1
+101. advertising - рекламирование A1
+102. announcement - объявление B1
+103. advice - совет A1
+104. annoy - раздражать B1
+105. advise - советовать B1
+106. annoyed - раздраженный B1
+107. affair - дело В2
+108. annoying - раздражающий B1
+109. affect - влияет A2
+110. annual - ежегодный В2
+111. afford - позволить B1
+112. another - другой A1
+113. afraid - испуганный A1
+114. answer - ответ А1
+115. after- после А1
+116. anxious - тревожный В2
+117. afternoon - полдень A1
+118. any - любой A2
+119. afterwards - потом В2
+120. anybody - кто-нибудь A2
+121. again - снова A1
+122. any - больше A2
+123. against - против A2
+124. anyone - любой A1
+125. age - возраст A1/ B1
+126. anything - что-нибудь A1
+127. anyway - в любом случае A2
+128. attend - присутствовать A2
+129. anywhere - везде A2
+130. attention - внимание А1
+131. apart - кроме B1
+132. attitude - отношение B1
+133. apartment - квартира A1
+134. attract - привлечь B1
+135. apologize - извиниться B1
+136. attraction - аттракцион B1
+137. app - приложение A2
+138. attractive - привлекательный A2
+139. apparent - кажущийся В2
+140. audience - аудитория A2
+141. apparently - видимо В2
+142. August - Август A1
+143. appeal - обращаться B2
+144. aunt - тетя A1
+145. appear - появляться A2
+146. author - автор A2
+147. appearance - внешний вид A2
+148. authority - власть B1
+149. apple - яблоко A1
+150. autumn - осень A1
+151. application - приложение № B1
+152. available - доступно A2
+153. apply - применить A2
+154. average - средний А2/В1
+155. appointment - назначение B1
+156. avoid - избегать A2
+157. appreciate - ценить B1
+158. award - награда A2/B1
+159. approach - подход B2
+160. aware - осведомленный B1
+161. appropriate - соответствующий В2
+162. away - прочь A1
+163. approval - утверждение В2
+164. awful - ужасный. A2
+165. approve - одобрить B2
+166. baby - ребенок A1
+167. approximately - примерно B1
+168. back - спина А2
+169. back - назад A2
+170. April - Апрель A1
+171. background - фон A2
+172. architect - архитектор A2
+173. backwards - назад B1
+174. architecture - архитектура A2
+175. bacteria - бактерии В2
+176. area - площадь A1
+177. bad - плохой A1
+178. argue - спорить В1
+179. badly - плохо A2
+180. argument - аргумент A2
+181. bag - сумка A1
+182. arise - возникновение B2
+183. bake - испечь B1
+184. arm - рука A1
+185. balance - остаток B1
+186. armed - вооруженный В2
+187. ball - мяч A1
+188. arms - оружие В2
+189. ban - запретить B1
+190. army - армия A2
+191. banana - банан A1
+192. around - вокруг A1
+193. band - группа A1
+194. arrange - организовать A2
+195. bank (money) - банк (деньги) A1
+196. arrangement - договоренность A2
+197. bank (river) - берег (река) B1
+198. arrest - арестовать B1
+199. bar - - бар A2/B2
+200. arrival - прибытие B1
+201. barrier - барьер В2
+202. arrive - прибыть - A1
+203. base - база B1
+204. art - искусство A1
+205. baseball - бейсбол A2
+206. article - статья A1
+207. based - на основе A2
+208. artificial - искусственный В2
+209. basic - базовый B1
+210. artist - - художник A1
+211. basically - в основном В2
+212. artistic - художественный В2
+213. basis - база B1
+214. as - как A2
+215. basketball - баскетбол A2
+216. ashamed - стыдливый В2
+217. bath - ванна A1
+218. ask - спросить A1
+219. bathroom - санузел A1
+220. asleep - спящий A2
+221. battery - аккумулятор B1
+222. aspect - аспект В2
+223. battle - битва B1/ B2
+224. assess - оценить B2
+225. be - вспомогательный A1
+226. assessment - оценка В2
+227. beach - пляж A1
+228. assignment - присвоение B1
+229. bean- фасоль A2
+230. assist - помогать B1
+231. beat - бить А2
+232. assistant - помощник A2
+233. bear (animal) - медведь (животное) A2
+234. associate - партнер B2
+235. beat - избили A2/В 2
+236. associated - связанный В2
+237. beautiful - красивый A1
+238. association - ассоциация В2
+239. beauty - красота B1
+240. assume - предположить B2
+241. because - потому что A1
+242. at - при A1
+243. become - A1 стать A1
+244. athlete - A2 спортсмен A2
+245. bed - A1 кровать A1
+246. atmosphere - B1 Атмосфера B1
+247. bedroom - A1 спальня A1
+248. attach - B1 прикрепить B1
+249. bee - пчела А2
+250. attack - A2 Атака A2
+251. beef - A2 говядина A2
+252. attempt - попытка B2
+253. beer - A1 пиво А1
+254. before перед подготовкой.
+255. branch - B1 филиал B1
+256. beg - B2 молить просить B2
+257. brand - B1 марка B1
+258. begin - A1 начать A1
+259. brave - B1 смелый B1
+260. beginning - A1 начало A1
+261. bread - A1 хлеб A1
+262. behave - A2 вести себя A2
+263. break - A1 сломать A1
+264. behaviour - A2 поведение A2
+265. breakfast - A1 завтрак A1
+266. behind - A1 позади A1
+267. breast - B2 грудь В2
+268. being - B2 будучи В2
+269. breath - B1 дыхание B1
+270. belief - B1 вера B1
+271. breathe - B1 дышать B1
+272. believe - A1 верить А1
+273. breathing - B1 дыхание B1
+274. bell - B1 звонок B1
+275. bride - B1 невеста B1
+276. belong - A2 принадлежать A2
+277. bridge - A2 мост A2
+278. below ad prep. A1 ниже пре A1
+279. brief - B2 краткий В2
+280. belt - A2 ремень A2
+281. bright - A2 яркий A2
+282. bend - B1 загнуть B1
+283. brilliant - A2 блестящий A2
+284. benefit - A2/B1 выгода A2/B1
+285. bring - A1 принести A1
+286. bent - B2 изогнутый В2
+287. broad - B2 широкий В2
+288. best - A1/A2 лучший А1/A2
+289. broadcast - B2 трансляция В2
+290. bet - B2 ставка В2
+291. broken - A2 сломанный A2
+292. better - A1/A2/B1 лучше A1/A2/B1
+293. brother - A1 брат A1
+294. between- A1/А2 между A1/A2
+295. brown - A1 коричневый A1
+296. beyond - B2 за гранью В2
+297. brush - A2 кисть A2
+298. bicycle - A1 велосипед A1
+299. bubble - B1 пузырь B1
+300. big - A1 большой A1
+301. budget - B2 бюджет В2
+302. bike - A1 велосипед A1
+303. build - A1 сборка A1
+304. bill - A1/B2 счет A1/ B2
+305. building - A1 здание A1
+306. billion A2 миллиард A2
+307. bullet - B2 пуля В2
+308. bin - A2 корзина A2
+309. bunch - B2 пучок В2
+310. biology - A2 биология A2
+311. burn - A2/B2 сжечь A2/В2
+312. bird - A1 птица A1
+313. bury - B1 похоронить B1
+314. birth - A2 рождение A2
+315. bus - A1 автобус № A1
+316. birthday - A1 день рождения A1
+317. bush - B2 куст В2
+318. biscuit - A2 бисквит A2
+319. business - A1 бизнес A1
+320. bit - A2 бит A2
+321. businessman - A2 бизнесмен A2
+322. bite - B1 укус B1
+323. busy - A1 занято A1
+324. bitter - B2 горький В2
+325. but - но A1/ В2
+326. black - A1 черный A1
+327. butter - A1 масло сливочное A1
+328. blame - B2 виноват В2
+329. button - A2 кнопка A2
+330. blank - A2 пустой A2
+331. buy - A1 купить A1
+332. blind - B2 слепой В2
+333. by A1/B1 по A1/B1
+334. block - B1 блок В1
+335. bye! - A2 пока! A2
+336. blog - A1 блог A1
+337. cable - B2 кабель В2
+338. blonde - A1 блондинка A1
+339. cafe - A1 кафе A1
+340. blood - A2 кровь A2
+341. cake - A1 торт A1
+342. blow - A2 удар A2
+343. calculate - B2 вычислить B2
+344. blue - A1 синий A1
+345. call - A1 звоните A1
+346. board - A2/B1 доска A2/B1
+347. calm - B1 спокойный B1
+348. boat - A1 лодка A1
+349. camera - A1 камера A1
+350. body - A1 тело A1
+351. camp -A2 лагерь А2
+352. boil - A2 кипятить A2
+353. campaign - B1 Кампания B1
+354. bomb - B1 бомба B1
+355. camping - A2 кемпинг A2
+356. bond - B2 облигация В2
+357. campus - B1 кампус B1
+358. bone - A2 кость A2
+359. can - A2 мочь A2
+360. book - A1/A2 книга A1/A2
+361. can - В1 жестяная банка В1
+362. boot - A1 загрузка A1
+363. cancel - B2 отменить B2
+364. border - B1/B2 граница B1/B2
+365. cancer - B2 рак В2
+366. bored - A1 скучный A1
+367. candidate - B1 кандидат B1
+368. boring - A1 скучный A1
+369. cannot - A1 не может A1
+370. born - В1 рожденный В1
+371. cap - B1 колпачок B1
+372. borrow - A2 заимствовать A2
+373. capable - B2 способный В2
+374. boss - A2 босс A2
+375. capacity - B2 емкость В2
+376. both - A2 оба A2
+377. capital - A1 заглавная A1
+378. bother - B1 беспокоить B1
+379. captain - B1 капитан B1
+380. bottle - A1 бутылка A1
+381. capture - B2 захват В2
+382. bottom - A2 нижнее A2
+383. car - A1 автомобиль A1
+384. bowl - A2 чаша A2
+385. card - A1 карта A1
+386. box - A1 коробка A1
+387. care -A2 уход A2
+388. boy - A1 мальчик A1
+389. career - A1 карьера A1
+390. boyfriend - A1 парень A1
+391. careful - A2 осторожный A2
+392. brain - A2 мозг A2
+393. carefully A2 аккуратно внимательно A2
+394. careless - B1 небрежный B1
+395. classical - A2 классический A2
+396. carpet - A2 ковер A2
+397. classroom - A1 класс A1
+398. carrot - A1 морковь A1
+399. clause - B1 пункт B1
+400. carry - A1 переносить - A1
+401. clean - A1 чистый A1
+402. cartoon - A2 мультфильм A2
+403. clear - A2/B1 ясный A2/B1
+404. case - A2 случай A2
+405. clearly - A2 явно A2
+406. cash - A2 наличные деньги A2
+407. clever - A2 умный A2
+408. cast -B1 бросать B1
+409. click - B1 кликать/нажмите B1
+410. castle - A2 замок A2
+411. client - B1 клиент B1
+412. cat - A1 кошка A1
+413. climate - A2 климат A2
+414. catch - A2/B2 поймать A2/В2
+415. climb - A1/B1 подняться на A1/B1
+416. category - B1 категория B1
+417. clock - A1 часы A1
+418. cause - A2 причина A2
+419. close - A1/B2 закрыть A1/В2
+420. CD - A1 CD A1
+421. close - В1 близкий B1
+422. ceiling - B1 потолок B1
+423. closed - A2 закрытый A2
+424. celebrate - A2 праздновать A2
+425. closely ad- B2 внимательно В2
+426. celebration - B1 праздник B1
+427. cloth - B1 ткань B1
+428. celebrity - A2 знаменитость A2
+429. clothes - A1 одежда A1
+430. cell - B2 ячейка В2
+431. clothing - A2 одежда A2
+432. cent - A1 цент A1
+433. cloud - A2 облако A2
+434. central - B1 центральный B1
+435. club - A1 клуб A1
+436. centre - A1/B1 центр A1/B1
+437. clue - B1 подсказка B1
+438. century - A1 век A1
+439. coach - A2/B1 тренер A2/B1
+440. ceremony - B1 церемония B1
+441. coal - B1 уголь B1
+442. certain - В1 определенный В1
+443. coast - A2 побережье A2
+444. certainly ad- A2 обязательно A2
+445. coat - A1 пальто A1
+446. chain - B1/B2 цепь B1/B2
+447. code - A2 код A2
+448. chair - A1/B2 стул A1/B2
+449. coffee - A1 кофе A1
+450. chairman - B2 председатель В2
+451. coin - B1 монета B1
+452. challenge - B1/B2 вызов B1/B2
+453. cold - A1 холодный A1
+454. champion - B1 чемпион B1
+455. collapse - B2 коллапс В2
+456. chance - A2 шанс A2
+457. colleague - A2 коллега A2
+458. change - A1 изменить A1
+459. collect - A2 собирать A2
+460. channel - B1 канал B1
+461. collection - B1 сборник - B1
+462. chapter - B1 глава B1
+463. college - A1 колледж A1
+464. character - A2 персонаж A2
+465. colour - A1 цвет A1
+466. characteristic - B2 характеристика В2
+467. coloured - B1 цветной B1
+468. charge - B1 заряд B1
+469. column - A2 столбец A2
+470. charity - A2 благотворительность A2
+471. combination - B2 комбинация В2
+472. chart - A1/B2 диаграмма A1/B2
+473. combine - B1 объединить B1
+474. chat - A2 чат A2
+475. come - A1 прийти A1
+476. cheap - A1 / B1 дешевый A1/B1
+477. comedy - A2 комедия A2
+478. cheat - B1 обманывать, изменять B1
+479. comfort - B2 комфорт B2
+480. check - A1/A2 проверить A1/A2
+481. comfortable - A2 удобный A2
+482. cheerful - B1 веселый B1
+483. command - B2 команда B2
+484. cheese - A1 сыр A1
+485. comment - A2/B1 комментарий A2/B1
+486. chef - A2 повар A2
+487. commercial - B1 коммерческий B1
+488. chemical - B1 химический B1
+489. commission - B2 комиссия B2
+490. chemistry - A2 химия A2
+491. commit - B1 совершить B1
+492. chest - B1 грудь B1
+493. commitment - B2 обязательство В2
+494. chicken - A1 курица A1
+495. committee - B2 комитет В2
+496. chief - B2 главный В2
+497. common - A1 общий A1
+498. child - A1 ребёнокA1
+499. commonly ad- B2 обычно В2
+500. childhood - B1 детство B1
+501. communicate - A2 общаться A2
+502. chip - A2 чип A2
+503. communication - B1 связь B1
+504. chocolate - A1 шоколад A1
+505. choice - A2 выбор A2
+506. choose - A2 выберите A2
+507. church - A2 церковь A2
+508. cigarette - A2 сигарета A2
+509. cinema - A кинотеатр A1
+510. circle - A2 круг А2
+511. circumstance - B2 обстоятельство В2
+512. cite - B2 цитировать B2
+513. citizen - B2 гражданин В2
+514. city - A1 город A1
+515. civil - B2 гражданский В2
+516. claim - B1 иск B1
+517. class - A1 класс A1
+518. classic - B2 классический В2
+519. computer - A1 компьютер A1
+520. concentrate - B1 концентрат B1
+521. concentration - B2 концентрация В2
+522. concept - B2 концепция В2
+523. concern - B2 концерн В2
+524. concerned - B2 обеспокоенный В2
+525. concert - A1 концерт A1
+526. conclude - B1 заключить B1
+527. conclusion - B1 заключение B1
+528. condition - A2 условие A2
+529. conduct - B2 вести В2
+530. conference - A2 конференция A2
+531. confidence - B2 уверенность В2
+532. confident - B1 уверенный B1
+533. confirm - B1 подтвердить B1
+534. conflict - B2 конфликт B2
+535. confuse - B1 путать B1
+536. confused - B1 запутанный B1
+537. confusing - B2 сбивающий с толку В2
+538. connect - A2 подключить A2
+539. connected - A2 подключенный A2
+540. connection - B1 подключение B1
+541. conscious - B2 сознательный В2
+542. consequence - B1 следствие B1
+543. conservative - B2 консервативный В2
+544. consider - A2 рассмотрим A2
+545. consideration - B2 рассмотрение В2
+546. consist - B1 состоять из B1
+547. consistent - B2 постоянный В2
+548. constant - B2 постоянный В2
+549. constantly ad- B2 постоянно опов. В2
+550. construct - B2 построить B2
+551. construction - B2 строительство В2
+552. consume - B1 потреблять B1
+553. consumer - B1 потребитель B1
+554. contact - B1 контакт B1
+555. contain - A2 содержать A2
+556. container - B1 контейнер B1
+557. contemporary - B2 современный В2
+558. content - А2 контент А2
+559. contest - B2 конкурс B2
+560. context - A2 контекст A2
+561. continent - A2 континент A2
+562. continue - A2 продолжить A2
+563. continuous - B1 непрерывный B1
+564. contract - B2 договор B2
+565. contrast - B1 контраст B1
+566. contribute - B2 способствовать B2
+567. community - A2 сообщество A2
+568. company - A1 компания A1
+569. compare - A1 сравнить -A1
+570. comparison - B1 сравнение - B1
+571. compete - A2 соревноваться A2
+572. competition - A2 конкурс A2
+573. competitive - B1 конкурентный B1
+574. competitor - B1 соискатель B1
+575. complain - A2 жаловаться A2
+576. complaint - B1 жалоба B1
+577. complete - A1 полный, завершенный A1
+578. completely - A2 полностью A2
+579. complex - B1/B2 сложный В1/В2
+580. complicated - B2 сложный В2
+581. component - B2 компонент В2
+582. council - B2 совет В2
+583. count - A2/B1 счет A2/B1
+584. country - A1 страна A1
+585. countryside - B1 сельская местность B1
+586. county - B2 округ В2
+587. couple - A2 пара A2
+588. courage - B2 смелость В2
+589. course - A1 конечно A1
+590. court - B1 суд B1
+591. cousin - A1 двоюродный брат A1
+592. cover - A2/B1 обложка A2/B1
+593. covered - B1 покрытый B1
+594. cow - A1 корова A1
+595. crash - B2 авария B2
+596. crazy - A2 сумасшедший A2
+597. cream - A1/B1 крем A/B1
+598. create - A1 создать A1
+599. creation - B2 создание В2
+600. creative - A2 творческий A2
+601. creature - B2 существо В2
+602. credit - A2/B2 кредит A2/B2
+603. crew - B2 экипаж - В2
+604. crime - A2 преступление A2
+605. criminal - A2 - B1 уголовное - A2 B1
+606. crisis - B2 кризис В2
+607. criterion - B2 критерий В2
+608. critic - B2 критик В2
+609. critical - B2 критический В2
+610. criticism - B2 критика В2
+611. criticize - B2 критиковать B2
+612. crop - B2 урожай В2
+613. cross - A2 крест A2
+614. crowd - A2 толпа A2
+615. crowded - A2 многолюдный A2
+616. crucial - B2 критический В2
+617. cruel - B1 жестокий B1
+618. cry - A2/B2 крик - A2/В2
+619. cultural - B1 культурный B1
+620. culture - A1 культура A1
+621. cup - A1 чашка A1
+622. cupboard - A2 шкаф A2
+623. cure - B2 вылечить В2
+624. curly - A2 кудрявый A2
+625. currency - B1 валюта B1
+626. current - B1/B2 текущий В1/В2
+627. currently - B1 в настоящее время B1
+628. curtain - B1 занавеска B1
+629. curve - B2 кривая B2
+630. contribution - B2 вклад В2
+631. control - A2 контрольная А2
+632. convenient - B1 удобный B1
+633. conversation - A1 разговор A1
+634. convert - B2 преобразовать B2
+635. convince - B1 убедить B1
+636. convinced - B2 убежденный В2
+637. cook - A1/A2 повар A1/ A2
+638. cooker - A2 плита A2
+639. cooking - A1 кулинария A1
+640. cool - A1/B1 крутой A1/B1
+641. copy - A2 копия A2
+642. core - B1 центр, сердцевина В1
+643. corner - A2 угол A2
+644. corporate - B2 корпоративный В2
+645. correct - A1 правильный A1
+646. correctly A2 правильно посоветовать A2
+647. cost - A1 стоимость А1
+648. costume - B1 костюм B1
+649. cottage - B1 коттедж B1
+650. cotton - B1 хлопок B1
+651. could - A1 может A1
+652. debate - B2 дискутировать B2
+653. debt - B2 долг В2
+654. decade - B1 декада B1
+655. December - A1 Декабрь A1
+656. decent - B2 достойный В2
+657. decide - A1 решить A1
+658. decision - A2 решение A2
+659. declare - B2 объявить B2
+660. decline - B2 отклонить В2
+661. decorate - B1 украсить B1
+662. decoration - B2 украшение В2
+663. decrease - B2 уменьшение В2
+664. deep - A2/B1 глубокий A2/B1
+665. deeply - B2 глубоко В2
+666. defeat - B2 поражение В2
+667. defence - B2 защита В2
+668. defend - B2 защищать B2
+669. define - B1 определить B1
+670. definite - B1 определенный B1
+671. definitely - A2 определенно A2
+672. definition - B1 определение B1
+673. degree - A2 степень A2
+674. delay - B2 задержка В2
+675. deliberate - B2 преднамеренный В2
+676. deliberately - B2 намеренно В2
+677. delicious - A1 вкусный A1
+678. delight - B2 восторг В2
+679. delighted - B2 восторженный В2
+680. deliver - B1 доставить B1
+681. delivery - B2 доставка В2
+682. demand - B2 требование В2
+683. demonstrate - B2 продемонстрировать B2
+684. dentist - A2 стоматолог A2
+685. deny - B2 отрицать B2
+686. department - A2 отдел A2
+687. departure - B1 выезд B1
+688. depend - A2 зависит от A2
+689. depressed - B2 депрессивный В2
+690. depressing - B2 удручающий В2
+691. depth - B2 глубина В2
+692. curved - B2 изогнутый В2
+693. custom - B1 обычай, традиция B1
+694. customer - A1 заказчик A1
+695. cut - A1/B1 вырезать - A1/B1
+696. cycle - A2 цикл A2
+697. dad - A1 папа A1
+698. daily - A2 / B1 ежедневный A2/B1
+699. damage - B1 ущерб В1
+700. dance - A1 танец А1
+701. dancer - A1 танцор A1
+702. dancing - A1 танцы A1
+703. danger - A2 опасность A2
+704. dangerous - A1 опасный A1
+705. dark - A1/A2 темный А1/A2
+706. data - A2 данные - A2
+707. date - A1 - B2 дата - A1 - B2
+708. daughter - A1 дочь A1
+709. day - A1 день A1
+710. dead - A2 мертвый A2
+711. deal - A2/B1 дело - A2/B1
+712. dear - A1/A2 дорогой A1/A2
+713. death - A2 смерть A2
+714. differently - A2 иначе A2
+715. difficult - A1 трудный A1
+716. difficulty - B1 сложность B1
+717. dig - B2 копать B2
+718. digital - A2 цифровой A2
+719. dinner - A1 ужин A1
+720. direct - A2/B1 прямой A2/B1
+721. direction - A2 направление A2
+722. directly - B1 прямо B1
+723. director - A2 директор A2
+724. dirt - B1 грязь B1
+725. dirty - A1 грязный A1
+726. disadvantage - B1 недостаток B1
+727. disagree - A2 не согласен A2
+728. disappear - A2 исчезнуть A2
+729. disappointed - B1 разочарованный B1
+730. disappointing - B1 разочаровывающий B1
+731. disaster - A2 катастрофа A2
+732. disc - B2 диск В2
+733. discipline - B2 дисциплина В2
+734. discount - B1/B2 скидка B1/B2
+735. discover - A2 открыть A2
+736. discovery - A2 открытие A2
+737. discuss - A1 обсудить A1
+738. discussion - A2 обсуждение A2
+739. disease - A2 болезнь A2
+740. dish - A1 блюдо A1
+741. dishonest - B2 нечестный В2
+742. dislike - B1 нелюбовь B1
+743. dismiss - B2 отклонить В2
+744. display - B2 дисплей В2
+745. distance - A2 расстояние A2
+746. distribute - B2 распространять B2
+747. distribution - B2 распределение В2
+748. district - B2 район В2
+749. divide - B1/B2 разделить B1/В2
+750. division - B2 дивизия В2
+751. divorced - A2 разведенный A2
+752. do - A1 вспомогательный глагол A1
+753. doctor - A1 доктор A1
+754. describe - A1 описать A1
+755. description - A1 описание A1
+756. desert - A2 - B2 пустыня A2 B2
+757. deserve - B2 заслуживать B2
+758. design - A1 конструкция А1
+759. designer - A2 дизайнер A2
+760. desire - B2 желание B2
+761. desk - A1 стол A1
+762. desperate - B2 отчаянный В2
+763. despite prep. B1 несмотря на B1
+764. destination - B1 пункт назначения B1
+765. destroy - A2 уничтожить A2
+766. detail - A1/B2 деталь - A1/B2
+767. detailed - B2 подробный В2
+768. detect - B2 обнаружить B2
+769. detective - A2 детектив A2
+770. determine - B1 определить B1
+771. determined - B1 нацеленный B1
+772. develop - A2 разработать A2
+773. development - B1 развитие B1
+774. device - A2 устройство A2
+775. diagram - B1 диаграмма B1
+776. dialogue - A1 диалог A1
+777. diamond - B1 алмаз B1
+778. diary - A2 дневник A2
+779. dictionary - A1 словарь A1
+780. die - A1 умереть A1
+781. diet - A1 диета A1
+782. difference - A1 разница A1
+783. different - A1 другой A1
+784. drug - A2 препарат A2
+785. drum - B1 барабан B1
+786. drunk - B1 пьяный B1
+787. dry - A2 сухой A2
+788. due - B1 должный B1
+789. during - A1 во время A1
+790. dust - B1 пыль B1
+791. duty - B1 обязанность B1
+792. DVD - A1 DVD A1
+793. each - A1 каждый A1
+794. earn - A1 зарабатывать A1
+795. early - A1 ранний A1
+796. earn - A2 заработать A2
+797. earth - A2 земля A2
+798. earthquake - B1 землетрясение B1
+799. easily - A2 легко A2
+800. east - A1 восток A1
+801. eastern - B1 восточный B1
+802. easy - A1 легкий A1
+803. eat - A1 есть - A1
+804. economic - B1 экономический B1
+805. economy - B1 экономика B1
+806. edge - B1 край B1
+807. edit - B2 редактировать B2
+808. edition - B2 редакция В2
+809. editor - B1 редактор B1
+810. educate - B1 воспитывать B1
+811. educated - B1 образованный B1
+812. education - A2 образование A2
+813. educational - B1 образовательный B1
+814. effect - A2 эффект A2
+815. effective - B1 эффективный B1
+816. effectively - B1 эффективно B1
+817. efficient - B2 эффективный В2
+818. document - A2/B2 документ № A2/B2
+819. documentary - B1 документальный B1
+820. dog - A1 собака A1
+821. dollar - A1 доллар A1
+822. domestic - B2 внутренний В2
+823. dominate - B2 доминировать B2
+824. donate - B1 пожертвовать B1
+825. door - A1 дверь A1
+826. double - A2 двойной А2
+827. dough - B1тесто B1
+828. doubt - B1 сомневаюсь B1
+829. down - A1 вниз A1
+830. download - A2 скачать A2
+831. downstairs - A1/A2 внизу A1/A2
+832. downwards - B2 вниз В2
+833. dozen - B2 дюжина В2
+834. draft - B2 проект B2
+835. drag - B2 перетащить B2
+836. drama - A2 драма A2
+837. dramatic - B2 драматический В2
+838. draw - A1 ничья A1
+839. drawing - A2 рисунок A2
+840. dream - A2 мечта А2
+841. dress - A1 платье А1
+842. dressed - B1 одетый B1
+843. drink - A1 пить А1
+844. drive - A1/A2 диск A1/A2
+845. driver - A1 водитель A1
+846. driving - A2 вождение A2
+847. drop - A2/B1 бросать A2/B1
+848. ending - A2 окончание A2
+849. enemy - B1 враг B1
+850. energy - A2 энергия A2
+851. engage - B2 задействовать B2
+852. engaged - B1 помолвленный B1
+853. engine - A2 двигатель A2
+854. engineer - A2 инженер A2
+855. engineering - B1 инженерная B1
+856. enhance - B2 улучшить B2
+857. enjoy - A1 наслаждайтесь A1
+858. enormous - A2 огромный A2
+859. enough - A1 достаточно A1
+860. enquiry - B2 запрос В2
+861. ensure - B2 обеспечить B2
+862. enter - A2 ввести A2
+863. entertain - B1 развлекать B1
+864. entertainment - B1 развлечения B1
+865. enthusiasm - B2 энтузиазм В2
+866. enthusiastic - B2 восторженный В2
+867. entire - B2 весь В2
+868. entirely - B2 полностью В2
+869. entrance - B1 подъезд B1
+870. entry - B1 запись B1
+871. environment - A2 окружающая среда A2
+872. environmental - А2 связанный с окружающей средой А2
+873. episode - B1 эпизод B1
+874. equal - B1/B2 равный B1/В2
+875. equally -B1 одинаково B1
+876. equipment - A2 оборудование A2
+877. error - A2 ошибка A2
+878. escape - B1 побег B1
+879. especially - A2 особенно A2
+880. essay - A2 эссе A2
+881. essential - B1 существенный B1
+882. effort - B1 усилие B1
+883. egg - A1 яйцо A1
+884. eight - А1 восемь A1
+885. eighteen - A1 восемнадцать А1
+886. eighty - A1 восемьдесят А1
+887. either - A2 либоA2
+888. elderly - B2 пожилой В2
+889. elect - B2 избрать B2
+890. election - B1 выборы B1
+891. electric - A2 электрический A2
+892. electrical - A2 электрический A2
+893. electricity - A2 электричество A2
+894. electronic - A2 электронный A2
+895. element - B1 элемент B1
+896. elephant - A1 слон A1
+897. eleven - A1 одиннадцать А1
+898. else - A1 еще A1
+899. elsewhere - B2 в другом месте В2
+900. email - A1 электронная почта A1
+901. embarrassed - B1 смущенный B1
+902. embarrassing - B1 смущающий B1
+903. emerge - B2 появляться B2
+904. emergency - B1 экстренная помощь B1
+905. emotion - B1 эмоция B1
+906. emotional - B2 эмоциональный В2
+907. emphasis - B2 акцент В2
+908. emphasize - B2 подчеркнуть B2
+909. employ - A2 использовать A2
+910. employee - A2 сотрудник A2
+911. employer - A2 работодатель A2
+912. employment - B1 занятость B1
+913. empty - A2/B1 пустой A2/B1
+914. enable - B2 разрешить B2
+915. encounter - B2 встреча В2
+916. encourage - B1 поощрять B1
+917. end - A1 конец A1
+918. existence - B2 существование В2
+919. expand - B1 развернуть B1
+920. expect - A2 ожидать A2
+921. expectation - B2 ожидание В2
+922. expected - B1 ожидаемый B1
+923. expedition - B1 экспедиция B1
+924. expense - B2 расход В2
+925. expensive - A1 дорогой A1
+926. experience - A2/B1 опыт A2/B1
+927. experienced - B1 опытный B1
+928. experiment - A2/B1 эксперимент A2/B1
+929. expert - A2 эксперт A2
+930. explain - A1 объяснить A1
+931. explanation - A2 объяснение A2
+932. explode - B1 взорваться B1
+933. exploration - B2 разведка В2
+934. explore - B1 изучить B1
+935. explosion - B1 взрыв B1
+936. export - B1 экспорт B1
+937. expose - B2 разоблачить B2
+938. express - A2 экспресс A2
+939. expression - A2 выражение A2
+940. extend - B2 продлить B2
+941. extent - B2 протяженность В2
+942. external - B2 внешнее В2
+943. extra - A1/B1 дополнительный A1/B1
+944. extraordinary - B2 экстраординарный В2
+945. extreme - A2/B2 крайний A2/В2
+946. establish - B2 установить B2
+947. estate - B2 недвижимость В2
+948. estimate - B2 оценка В2
+949. ethical - B2 этический В2
+950. euro - A1 евро A1
+951. evaluate - B2 оценить B2
+952. even ad- A1/B2 даже A1/В2
+953. evening - A1 вечер A1
+954. event - A1 событие A1
+955. eventually - B1 в итоге B1
+956. ever - A1 когда-либо A1
+957. every - A1 каждый A1
+958. everybody - A1 все про A1
+959. everyday - A2 повседневный A2
+960. everyone - A1 все про A1
+961. everything - A1 все про A1
+962. everywhere - A2 везде A2
+963. evidence - A2 доказательства A2
+964. evil - B2 злой В2
+965. exact - A2 точный A2
+966. exactly ad- A2 точно A2
+967. exam - A1 экзамен A1
+968. examination - B2 экспертиза В2
+969. examine - B1 изучить B1
+970. example - A1 пример A1
+971. excellent - A2 отличный A2
+972. except prep. A2/B1 кроме A2/B1
+973. exchange - B1 обмен B1
+974. excited - A1 возбужденный A1
+975. excitement - B1 возбуждение B1
+976. exciting - A1 увлекательный A1
+977. excuse - B2 извините B2
+978. executive - B2 исполнительный В2
+979. exercise - A1 упражнение A1
+980. exhibition - B1 выставка B1
+981. exist - A2 существует A2
+982. feeling - A1 чувство A1
+983. fellow - B2 приятель В2
+984. female - A2 женский A2
+985. fence - B1 забор B1
+986. festival - A1 фестиваль A1
+987. few - A1 немного A1
+988. fiction - A2 художественная литература А2
+989. field - A2 поле A2
+990. fifteen -A1 пятнадцать А1
+991. fifth - A1 пять А1
+992. fifty - A1 пятьдесят A1
+993. fight - A2 драка A2
+994. fighting - B1 борьба B1
+995. figure - A2/B2 рисунок A2/B2
+996. file - B1/B2 файл B1/B2
+997. fill - A1 заполнить A1
+998. film - A1/A2 фильм A1/A2
+999. final - A1/A2 финальный А1/A2
+1000. finally - A2 наконец A2

@@ -3,35 +3,38 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Vocabulary List</title>
+
+    <!-- Disable zoom -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+    <title>Vocabulary</title>
 
     <style>
         body {
             font-family: Arial, sans-serif;
             padding: 20px;
-            line-height: 1.8;
+
+            font-size: 32px;
+
+            line-height: 2;
         }
 
         .item {
             display: flex;
             align-items: center;
-            gap: 10px;
-            padding: 6px 0;
+            gap: 20px;
+            padding: 12px 0;
             border-bottom: 1px solid #eee;
+        }
+
+        input[type="checkbox"] {
+            width: 32px;
+            height: 32px;
         }
 
         .checked {
             opacity: 0.5;
-        }
-
-        .word {
-            font-weight: bold;
-            font-size: 30px;
-        }
-
-        .level {
-            color: #666;
-            margin-left: auto;
+            text-decoration: line-through;
         }
     </style>
 </head>
@@ -50,46 +53,46 @@
             const lines = text.split('\n').filter(line => line.trim());
 
             const container = document.getElementById('list');
-            container.innerHTML = '';
 
-            lines.forEach((line, index) => {
-                const checkboxId = `word_${index}`;
+            container.innerHTML = lines.map((line, index) => {
+                const checked =
+                    localStorage.getItem(`word_${index}`) === 'true';
 
-                const div = document.createElement('div');
-                div.className = 'item';
+                return `
+        <div class="item">
+          <input
+            type="checkbox"
+            id="word_${index}"
+            ${checked ? 'checked' : ''}
+          >
 
-                const checkbox = document.createElement('input');
-                checkbox.type = 'checkbox';
-                checkbox.id = checkboxId;
+          <label
+            for="word_${index}"
+            class="${checked ? 'checked' : ''}"
+          >
+            ${line}
+          </label>
+        </div>
+      `;
+            }).join('');
 
-                // restore saved value
-                checkbox.checked =
-                    localStorage.getItem(checkboxId) === 'true';
+            container.addEventListener('change', (e) => {
+                if (e.target.type === 'checkbox') {
+                    const checkbox = e.target;
 
-                const label = document.createElement('label');
-                label.htmlFor = checkboxId;
-                label.textContent = line;
-
-                if (checkbox.checked) {
-                    label.classList.add('checked');
-                }
-
-                checkbox.addEventListener('change', () => {
                     localStorage.setItem(
-                        checkboxId,
+                        checkbox.id,
                         checkbox.checked
                     );
+
+                    const label =
+                        checkbox.parentElement.querySelector('label');
 
                     label.classList.toggle(
                         'checked',
                         checkbox.checked
                     );
-                });
-
-                div.appendChild(checkbox);
-                div.appendChild(label);
-
-                container.appendChild(div);
+                }
             });
         }
 
