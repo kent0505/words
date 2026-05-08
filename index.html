@@ -1,15 +1,101 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Vocabulary List</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            line-height: 1.8;
+        }
+
+        .item {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 6px 0;
+            border-bottom: 1px solid #eee;
+        }
+
+        .checked {
+            opacity: 0.5;
+            text-decoration: line-through;
+        }
+
+        .word {
+            font-weight: bold;
+        }
+
+        .level {
+            color: #666;
+            margin-left: auto;
+        }
+    </style>
 </head>
 
 <body>
-    <h1>Hello, World!</h1>
-    <h1>Hello, World!</h1>
+
+    <h1>Vocabulary</h1>
+
+    <div id="list">Loading...</div>
+
+    <script>
+        async function loadWords() {
+            const response = await fetch('words.txt');
+            const text = await response.text();
+
+            const lines = text.split('\n').filter(line => line.trim());
+
+            const container = document.getElementById('list');
+            container.innerHTML = '';
+
+            lines.forEach((line, index) => {
+                const checkboxId = `word_${index}`;
+
+                const div = document.createElement('div');
+                div.className = 'item';
+
+                const checkbox = document.createElement('input');
+                checkbox.type = 'checkbox';
+                checkbox.id = checkboxId;
+
+                // restore saved value
+                checkbox.checked =
+                    localStorage.getItem(checkboxId) === 'true';
+
+                const label = document.createElement('label');
+                label.htmlFor = checkboxId;
+                label.textContent = line;
+
+                if (checkbox.checked) {
+                    label.classList.add('checked');
+                }
+
+                checkbox.addEventListener('change', () => {
+                    localStorage.setItem(
+                        checkboxId,
+                        checkbox.checked
+                    );
+
+                    label.classList.toggle(
+                        'checked',
+                        checkbox.checked
+                    );
+                });
+
+                div.appendChild(checkbox);
+                div.appendChild(label);
+
+                container.appendChild(div);
+            });
+        }
+
+        loadWords();
+    </script>
+
 </body>
 
 </html>
