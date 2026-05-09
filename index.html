@@ -23,7 +23,6 @@
             display: flex;
             align-items: center;
             gap: 6px;
-            /* padding: 6px 0; */
             border-bottom: 1px solid #eee;
         }
 
@@ -60,19 +59,19 @@
 
                 return `
         <div class="item">
-          <label
-            for="word_${index}"
-            class="${checked ? 'checked' : ''}"
-          >
+            <input
+              type="checkbox"
+              id="word_${index}"
+              ${checked ? 'checked' : ''}
+            >
+            <label
+                for="word_${index}"
+                class="${checked ? 'checked' : ''}"
+            >
             ${line}
-          </label>
-          <input
-            type="checkbox"
-            id="word_${index}"
-            ${checked ? 'checked' : ''}
-          >
+            </label>
         </div>
-      `;
+        `;
             }).join('');
 
             container.addEventListener('change', (e) => {
