@@ -53,7 +53,17 @@ async function loadWords() {
     renderWords();
 }
 
+function updateCount() {
+    const studyingCount = allWords.filter(
+        (_, index) => {
+            return localStorage.getItem(`word_${index}`) !== 'true';
+        }
+    ).length;
+    studyingTab.textContent = `Studying (${studyingCount})`;
+}
+
 function renderWords() {
+    updateCount();
     const container = document.getElementById('list');
     let wordsToShow = allWords;
     if (currentTab === 'studying') {

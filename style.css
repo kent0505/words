@@ -37,7 +37,7 @@ body {
     align-items: center;
     justify-content: space-between;
 
-    gap: 8px;
+    gap: 12px;
 
     padding: 16px;
 
@@ -88,4 +88,9 @@ input[type="checkbox"] {
 
 .checked {
     opacity: 0.4;
+}
+
+
+body.dark input[type="checkbox"] {
+    accent-color: #444444;
 }
