@@ -55,6 +55,28 @@
             font-size: 14px;
         }
 
+        .tabs {
+            display: flex;
+            gap: 8px;
+            margin-bottom: 16px;
+        }
+
+        .tab-btn {
+            border: none;
+            padding: 10px 14px;
+            border-radius: 10px;
+            cursor: pointer;
+
+            background: var(--card);
+            color: var(--text);
+
+            font-size: 14px;
+        }
+
+        .tab-btn.active {
+            opacity: 0.6;
+        }
+
         .item {
             display: flex;
             align-items: center;
@@ -80,6 +102,16 @@
 
         <button id="themeToggle" class="theme-btn">
             🌙 Dark
+        </button>
+    </div>
+
+    <div class="tabs">
+        <button class="tab-btn active" id="allTab">
+            All
+        </button>
+
+        <button class="tab-btn" id="studyingTab">
+            Studying
         </button>
     </div>
 
@@ -120,33 +152,79 @@
             updateThemeButton();
         });
 
+        // Tabs
+
+        let currentTab = 'all';
+
+        const allTab =
+            document.getElementById('allTab');
+
+        const studyingTab =
+            document.getElementById('studyingTab');
+
+        allTab.addEventListener('click', () => {
+            currentTab = 'all';
+
+            allTab.classList.add('active');
+            studyingTab.classList.remove('active');
+
+            renderWords();
+        });
+
+        studyingTab.addEventListener('click', () => {
+            currentTab = 'studying';
+
+            studyingTab.classList.add('active');
+            allTab.classList.remove('active');
+
+            renderWords();
+        });
+
         // Words
+
+        let allWords = [];
 
         async function loadWords() {
             const response = await fetch('words.txt');
             const text = await response.text();
 
-            const lines = text
+            allWords = text
                 .split('\n')
                 .filter(line => line.trim());
 
+            renderWords();
+        }
+
+        function renderWords() {
             const container =
                 document.getElementById('list');
 
-            container.innerHTML = lines.map((line, index) => {
+            let wordsToShow = allWords;
+
+            if (currentTab === 'studying') {
+                wordsToShow = allWords.filter((line, index) => {
+                    return localStorage.getItem(`word_${index}`) !== 'true';
+                });
+            }
+
+            container.innerHTML = wordsToShow.map((line) => {
+
+                const originalIndex =
+                    allWords.indexOf(line);
+
                 const checked =
-                    localStorage.getItem(`word_${index}`) === 'true';
+                    localStorage.getItem(`word_${originalIndex}`) === 'true';
 
                 return `
                 <div class="item">
                     <input
                         type="checkbox"
-                        id="word_${index}"
+                        id="word_${originalIndex}"
                         ${checked ? 'checked' : ''}
                     >
 
                     <label
-                        for="word_${index}"
+                        for="word_${originalIndex}"
                         class="${checked ? 'checked' : ''}"
                     >
                         ${line}
@@ -155,9 +233,11 @@
                 `;
             }).join('');
 
-            container.addEventListener('change', (e) => {
-                if (e.target.type === 'checkbox') {
-                    const checkbox = e.target;
+            container.querySelectorAll(
+                'input[type="checkbox"]'
+            ).forEach((checkbox) => {
+
+                checkbox.addEventListener('change', () => {
 
                     localStorage.setItem(
                         checkbox.id,
@@ -171,7 +251,11 @@
                         'checked',
                         checkbox.checked
                     );
-                }
+
+                    if (currentTab === 'studying') {
+                        renderWords();
+                    }
+                });
             });
         }
 
