@@ -148,7 +148,7 @@
 148. authority власть 
 149. apple яблоко 
 150. autumn осень 
-151. application приложение № 
+151. application приложение 
 152. available доступно 
 153. apply применить 
 154. average средний
@@ -196,7 +196,7 @@
 196. arrangement договоренность 
 197. bank (river) берег (река) 
 198. arrest арестовать 
-199. bar - бар 
+199. bar бар 
 200. arrival прибытие 
 201. barrier барьер
 202. arrive прибыть 
@@ -207,7 +207,7 @@
 207. based на основе 
 208. artificial искусственный
 209. basic базовый 
-210. artist - художник 
+210. artist художник 
 211. basically в основном
 212. artistic художественный
 213. basis база 
@@ -232,7 +232,7 @@
 232. assistant помощник 
 233. bear (animal) медведь (животное) 
 234. associate партнер 
-235. beat избили В 2
+235. beat избили
 236. associated связанный
 237. beautiful красивый 
 238. association ассоциация
@@ -251,7 +251,7 @@
 251. beef говядина 
 252. attempt попытка 
 253. beer пиво
-254. before перед подготовкой.
+254. before перед подготовкой
 255. branch филиал 
 256. beg молить просить 
 257. brand марка 
@@ -312,7 +312,7 @@
 312. bird птица 
 313. bury похоронить 
 314. birth рождение 
-315. bus автобус № 
+315. bus автобус 
 316. birthday день рождения 
 317. bush куст
 318. biscuit бисквит 
@@ -348,7 +348,7 @@
 348. boat лодка 
 349. camera камера 
 350. body тело 
-351. camp -лагерь
+351. camp лагерь
 352. boil кипятить 
 353. campaign Кампания 
 354. bomb бомба 
@@ -384,7 +384,7 @@
 384. bowl чаша 
 385. card карта 
 386. box коробка 
-387. care -уход 
+387. care уход 
 388. boy мальчик 
 389. career карьера 
 390. boyfriend парень 
@@ -422,7 +422,7 @@
 422. ceiling потолок 
 423. closed закрытый 
 424. celebrate праздновать 
-425. closely ad- внимательно
+425. closely внимательно
 426. celebration праздник 
 427. cloth ткань 
 428. celebrity знаменитость 
@@ -441,7 +441,7 @@
 441. coal уголь 
 442. certain определенный
 443. coast побережье 
-444. certainly ad- обязательно 
+444. certainly обязательно 
 445. coat пальто 
 446. chain цепь 
 447. code код 
@@ -496,7 +496,7 @@
 496. chief главный
 497. common общий 
 498. child ребёнок
-499. commonly ad- обычно
+499. commonly обычно
 500. childhood детство 
 501. communicate общаться 
 502. chip чип 
@@ -546,7 +546,7 @@
 546. consist состоять из 
 547. consistent постоянный
 548. constant постоянный
-549. constantly ad- постоянно опов.
+549. constantly постоянно опов.
 550. construct построить 
 551. construction строительство
 552. consume потреблять 
@@ -566,7 +566,7 @@
 566. contribute способствовать 
 567. community сообщество 
 568. company компания 
-569. compare сравнить -
+569. compare сравнить 
 570. comparison сравнение 
 571. compete соревноваться 
 572. competition конкурс 
@@ -600,9 +600,9 @@
 600. creative творческий 
 601. creature существо
 602. credit кредит 
-603. crew экипаж -
+603. crew экипаж 
 604. crime преступление 
-605. criminal - уголовное 
+605. criminal уголовное 
 606. crisis кризис
 607. criterion критерий
 608. critic критик
@@ -615,7 +615,7 @@
 615. crowded многолюдный 
 616. crucial критический
 617. cruel жестокий 
-618. cry крик -
+618. cry крик 
 619. cultural культурный 
 620. culture культура 
 621. cup чашка 
@@ -704,7 +704,7 @@
 704. dangerous опасный 
 705. dark темный
 706. data данные 
-707. date - дата - 
+707. date дата
 708. daughter дочь 
 709. day день 
 710. dead мертвый 
@@ -753,7 +753,7 @@
 753. doctor доктор 
 754. describe описать 
 755. description описание 
-756. desert - пустыня 
+756. desert пустыня 
 757. deserve заслуживать 
 758. design конструкция
 759. designer дизайнер 
@@ -815,7 +815,7 @@
 815. effective эффективный 
 816. effectively эффективно 
 817. efficient эффективный
-818. document документ № 
+818. document документ 
 819. documentary документальный 
 820. dog собака 
 821. dollar доллар 
@@ -949,7 +949,7 @@
 949. ethical этический
 950. euro евро 
 951. evaluate оценить 
-952. even ad- даже
+952. even даже
 953. evening вечер 
 954. event событие 
 955. eventually в итоге 
@@ -963,7 +963,7 @@
 963. evidence доказательства 
 964. evil злой
 965. exact точный 
-966. exactly ad- точно 
+966. exactly точно 
 967. exam экзамен 
 968. examination экспертиза
 969. examine изучить 
@@ -1051,10 +1051,10 @@
 1051. feel чувствовать 
 1052. formal формальный 
 1053. former бывший
-1054. fortunately ad- к счастью 
+1054. fortunately к счастью 
 1055. fortune фортуна
 1056. forty сорок
-1057. forward - вперед нарек.
+1057. forward вперед нарек.
 1058. found найдено 
 1059. four четыре 
 1060. fourteen четырнадцать
@@ -1072,7 +1072,7 @@
 1072. friendly дружеский 
 1073. friendship дружба 
 1074. first number первый
-1075. firstly ad- во первых нарек. 
+1075. firstly во первых нарек. 
 1076. fish рыба 
 1077. fishing рыбалка 
 1078. fit подходит 
@@ -1108,7 +1108,7 @@
 1108. force сила 
 1109. foreign иностранный 
 1110. forest лес 
-1111. forever ad- навсегда 
+1111. forever навсегда 
 1112. forget забыть 
 1113. forgive простить 
 1114. fork вилка 
@@ -1157,7 +1157,7 @@
 1157. ground земля 
 1158. full полный 
 1159. group группа 
-1160. fully ad- полностью
+1160. fully полностью
 1161. grow расти 
 1162. fun весело 
 1163. growth рост 
@@ -1203,7 +1203,7 @@
 1203. happiness счастье 
 1204. general общий 
 1205. happy счастливый 
-1206. generally ad- в общем 
+1206. generally в общем 
 1207. hard жесткий 
 1208. generate генерировать 
 1209. hardly вряд ли 
@@ -1243,10 +1243,10 @@
 1243. ice лед 
 1244. heaven небеса
 1245. ice cream мороженое 
-1246. heavily ad- сильно 
+1246. heavily сильно 
 1247. idea идея 
 1248. heavy тяжёлый 
-1249. ideal - идеальный
+1249. ideal идеальный
 1250. heel каблук
 1251. identify идентифицировать 
 1252. height высота 
@@ -1349,7 +1349,7 @@
 1349. industry промышленность 
 1350. housing корпус
 1351. infection инфекция
-1352. how ad- как 
+1352. how как 
 1353. influence влияние 
 1354. however однако 
 1355. inform сообщить 
@@ -1446,7 +1446,7 @@
 1446. invest инвестировать 
 1447. large большой 
 1448. investigate расследовать 
-1449. largely ad- в основном
+1449. largely в основном
 1450. investigation расследование
 1451. last последний
 1452. investment инвестиции
@@ -1765,7 +1765,7 @@
 1765. nut орех 
 1766. must должен 
 1767. obey подчиняться 
-1768. my . мой 
+1768. my мой 
 1769. object объект 
 1770. myself я 
 1771. objective цель 
@@ -1794,7 +1794,7 @@
 1794. October Октябрь 
 1795. package пакет версия 
 1796. odd нечетный 
-1797. page страница № 
+1797. page страница 
 1798. of предлог для передачи Р.П. (кого?чего?) 
 1799. pain боль 
 1800. off выкл. 
@@ -1854,7 +1854,7 @@
 1854. opportunity возможность 
 1855. passion страсть 
 1856. oppose возражать 
-1857. passport паспорт № 
+1857. passport паспорт 
 1858. opposed против 
 1859. past прошлое 
 1860. opposite напротив 
@@ -2313,7 +2313,7 @@
 2313. roof крыша 
 2314. secretary секретарь 
 2315. room комната 
-2316. section раздел № 
+2316. section раздел 
 2317. root корень 
 2318. sector сектор 
 2319. rope веревка 
@@ -2870,7 +2870,7 @@
 2870. visual визуальный 
 2871. unique уникальный 
 2872. vital витальный 
-2873. unit единица № 
+2873. unit единица 
 2874. vitamin витамин 
 2875. united объединенный 
 2876. voice голос 
@@ -3005,4 +3005,4 @@
 3005. will modal будет модальным 
 3006. willing желающий 
 3007. win выиграть против 
-3008. wind1 ветер1 
+3008. wind ветер
